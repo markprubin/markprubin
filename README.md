@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Mark%20Rubin&fontSize=90)
+
 ### Hi there 👋
 
 I am brand new to the world of Software Engineering. I am currently enrolled as a student at Actualize, transitioning from a career in Strength & Conditioning and Personal Training to Software Development. 
