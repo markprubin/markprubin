@@ -5,6 +5,7 @@ I am brand new to the world of Software Engineering. I am currently enrolled as 
 Some little tidbits:
 - 🌱 I’m currently learning all about full stack rails app development, where we are connecting the backend and front end.
 - 🤔 I’m looking for help with navigating the software development world and employment.
+- 💬 Ask me about what it is like to transition careers and all about personal development. This isn't my first rodeo. I actually attended dental school for 2 months before voluntarily dropping out.
 - 📫 How to reach me: [markrubin.dev](www.markrubin.dev)
 - ⚡ Fun fact: I am a German native and am bilingual.
 
