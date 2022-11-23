@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am currently a student at Actualize, transitioning from a career in Strength & Conditioning and Personal Training to Software Development. 
+
+
+- 🌱 I’m currently learning all about full stack rails app development, where we are connecting the backend and front end.
+- 🤔 I’m looking for help with navigating the software development world and employment.
+- 📫 How to reach me: www.markrubin.dev
+- ⚡ Fun fact: I am a German native and am bilingual.
+
 <!--
 **markprubin/markprubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
