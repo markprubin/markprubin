@@ -2,7 +2,7 @@
 
 I am brand new to the world of Software Engineering. I am currently enrolled as a student at Actualize, transitioning from a career in Strength & Conditioning and Personal Training to Software Development. 
 
-Some little tidbits:
+## About me:
 - 🌱 I’m currently learning all about full stack rails app development, where we are connecting the backend and front end.
 - 🤔 I’m looking for help with navigating the software development world and employment.
 - 💬 Ask me about what it is like to transition careers and all about personal development. This isn't my first rodeo. I actually attended dental school for 2 months before voluntarily dropping out.
