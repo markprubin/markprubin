@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I am currently a student at Actualize, transitioning from a career in Strength & Conditioning and Personal Training to Software Development. 
+I am brand new to the world of Software Engineering. I am currently enrolled as a student at Actualize, transitioning from a career in Strength & Conditioning and Personal Training to Software Development. 
 
-
+Some little tidbits:
 - 🌱 I’m currently learning all about full stack rails app development, where we are connecting the backend and front end.
 - 🤔 I’m looking for help with navigating the software development world and employment.
-- 📫 How to reach me: www.markrubin.dev
+- 📫 How to reach me: [markrubin.dev](www.markrubin.dev)
 - ⚡ Fun fact: I am a German native and am bilingual.
 
 <!--
