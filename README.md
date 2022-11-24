@@ -12,7 +12,7 @@ I am brand new to the world of Software Engineering. I am currently enrolled as 
 - ⚡ Fun fact: I am a German native and am bilingual.
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Thank%20You%20For%20Visiting&fontSize=50)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=Thank%20You%20For%20Visiting&fontSize=50)
 <!--
 **markprubin/markprubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
