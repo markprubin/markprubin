@@ -2,10 +2,10 @@
 
 ### Hi there 👋
 
-I am brand new to the world of Software Engineering. I am currently enrolled as a student at Actualize, transitioning from a career in Strength & Conditioning and Personal Training to Software Development. 
+I am brand new to the world of Software Engineering. I am a recent graduate from the Actualize Coding Bootcamp. I am transitioning from a career in Strength & Conditioning and Personal Training to Software Development. 
 
 ## About me:
-- 🌱 I’m currently learning all about full stack rails app development, where we are connecting the backend and front end.
+- 🌱 I’m currently learning all about full stack development, where we are connecting the backend and front end.
 - 🤔 I’m looking for help with navigating the software development world and employment.
 - 💬 Ask me about what it is like to transition careers and all about personal development. This isn't my first rodeo. I actually attended dental school for 2 months before voluntarily dropping out.
 - 📫 How to reach me: [markrubin.dev](www.markrubin.dev)
