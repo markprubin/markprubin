@@ -11,7 +11,7 @@ I was recently let go from Modo Bio, a remote patient monitoring company, due to
 - 📈 Love all things Data. Working with Arizona Water Data (demand vs supply) in active management areas for a small project.
 - 🤔 I’m currently looking for employment, as my most recent position was cut due to a company shutdown.
 - 💬 Ask me about what it is like to transition careers and all about personal development. This isn't my first rodeo. I actually attended dental school for 2 months before voluntarily dropping out.
-- Website: [markrubin.dev](https://www.markrubin.dev)
+- 🖱️ Website: [markrubin.dev](https://www.markrubin.dev)
 - 📫 How to reach me: [mark.p.rubin@gmail.com](mark.p.rubin@gmail.com)
 - ⚡ Fun fact: I am a German native and am bilingual.
 
